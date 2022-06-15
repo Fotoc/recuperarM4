@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pelicules SYSTEM "pelicules.dtd">
+<?xml-stylesheet type="text/xsl" href="pelicules.xsl"?>
+
+
+<pelicules>
+  <pelicula>
+    <titol>Orphan</titol>
+    <any>2009</any>
+    <genere>Terror, Misteri, Suspens</genere>
+     <foto>orphan.jpg</foto>
+  </pelicula>
+  
+    <pelicula>
+    <titol>Childs Play</titol>
+    <any>1988</any>
+     <genere>Terror, Slasher</genere>
+    <foto>chucky.jpg</foto>
+  </pelicula>
+  
+    <pelicula>
+    <titol>Ringu</titol>
+    <any>1998</any>
+    <genere>Terror, Thriller, Sobrenatural</genere>
+    <foto>ring.jpg</foto>
+  </pelicula>
+  
+    <pelicula>
+    <titol>Friday the 13th</titol>
+    <any>2009</any>
+    <genere>Terror, Slasher</genere>
+    <foto>friday.jpg</foto>
+  </pelicula>
+  
+  <pelicula>
+    <titol>Death Note</titol>
+    <any>2006</any>
+    <genere> Misteri, Thriller psicològic, Thriller</genere>
+    <foto>death.jpg</foto>
+  </pelicula>
+  
+</pelicules>

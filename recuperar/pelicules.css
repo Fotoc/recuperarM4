@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100%;
+    background-image: url("IMG/fondo.png");
+    background-size: cover;
+}
+
+#pelicula{
+    text-align: center;
+    font-size: 30px;
+    background: red;
+    border-radius: 15px;
+    margin-right: 30%;
+    margin-left: 30%;
+    margin-bottom: 20px;
+    
+}
+
+.peli{
+    display: flex;
+    justify-content: center;
+    
+
+}
+
+.peli li{
+    list-style: none;
+ 
+}
+
+.peli li a{
+    display: flex;
+    font-size: 40px;
+    color: red;
+    margin-right: 1%;
+    margin-left: 1%;
+    text-decoration: none;
+    background-color: black;
+    border-radius: 10px;
+    justify-content: center;
+
+}
+
+#pelis{
+    margin-right: 10px;
+}

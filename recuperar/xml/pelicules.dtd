@@ -1,0 +1,6 @@
+<!ELEMENT pelicules (pelicula+)>
+<!ELEMENT pelicula (titol,any,foto,genere)>
+<!ELEMENT titol (#PCDATA)>
+<!ELEMENT any (#PCDATA)>
+<!ELEMENT foto (#PCDATA)>
+<!ELEMENT genere (#PCDATA)>
